@@ -1,7 +1,7 @@
 pymongo
 pyyaml
 docopt
-ete3
+ete3==3.1.2
 pandas
 xlwt
 xlsxwriter
